@@ -3,7 +3,7 @@
 I am an undergraduate Computer Science major at University of Cincinnati. I love climbing, hiking, gaming, music and motorsport.
 
 ## Experience
-- **Languages:** Ruby | Python | JavaScript | TypeScript | Python | C++
+- **Languages:** Ruby | Python | JavaScript | TypeScript | C++
 - **Frameworks:** Rails | Angular | React
 - **Database:** MySQL | PostgreSQL
 - **Data Analysis** Numpy | Pandas   
