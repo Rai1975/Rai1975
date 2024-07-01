@@ -1,5 +1,12 @@
-## Hi there 👋
+## Hi, I'm Raihan :robot:
 
+I am an undergraduate Computer Science major at University of Cincinnati. I love climbing, hiking, gaming, music and motorsport.
+
+## Experience
+- **Languages:** Ruby | Python | JavaScript | TypeScript | Python | C++
+- **Frameworks:** Rails | Angular | React
+- **Database:** MySQL | PostgreSQL
+- **Data Analysis** Numpy | Pandas   
 <!--
 **Rai1975/Rai1975** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
