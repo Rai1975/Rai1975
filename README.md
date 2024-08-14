@@ -6,7 +6,7 @@ I am an undergraduate Computer Science major at University of Cincinnati. I love
 - **Languages:** Ruby | Python | JavaScript | TypeScript | C++
 - **Frameworks:** Rails | Angular | React
 - **Database:** MySQL | PostgreSQL
-- **Data Analysis** Numpy | Pandas   
+- **Data Analysis:** Numpy | Pandas   
 <!--
 **Rai1975/Rai1975** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
