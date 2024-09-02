@@ -1,6 +1,6 @@
 ## Hi, I'm Raihan :robot:
 
-I am an undergraduate Computer Science major at University of Cincinnati. I love climbing, hiking, gaming, music and motorsport.
+I am an undergraduate Computer Science major at University of Cincinnati. I love climbing, hiking, gaming, music and motorsport. If not obvious, I also have an affinity towards cats :)
 
 ## Experience
 - **Languages:** Ruby | Python | JavaScript | TypeScript | C++
