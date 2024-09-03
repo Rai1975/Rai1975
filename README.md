@@ -7,7 +7,7 @@ I am an undergraduate Computer Science major at University of Cincinnati. I love
 - **Frameworks:** Rails | Angular | React
 - **Database:** MySQL | PostgreSQL | Cypher (neo4j) | GraphQL
 - **Data Analysis:** Numpy | Pandas | Scikit-learn
-- **AI:** PyTorch | BERT | Llama | OpenAI | HuggingFace (Transformers)
+- **AI:** BERT | Llama | OpenAI | HuggingFace (Transformers)
 - **Tools:** Docker
 <!--
 **Rai1975/Rai1975** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
