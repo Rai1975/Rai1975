@@ -6,7 +6,7 @@ I am an undergraduate Computer Science major at University of Cincinnati. I love
 - **Languages:** Ruby | Python | JavaScript | TypeScript | C++
 - **Frameworks:** Rails | Flask | Angular | React
 - **Database:** MySQL | PostgreSQL | Cypher (neo4j)
-- **Data Analysis:** Numpy | Pandas | Scikit-learn
+- **Data Analysis:** Numpy | Pandas | Scikit
 - **AI:** BERT | Llama | OpenAI | HuggingFace (Transformers)
 - **Tools:** Docker
 <!--
