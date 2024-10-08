@@ -1,12 +1,21 @@
 ## Hi, I'm Raihan :robot:
 
-I am an undergraduate Computer Science major at University of Cincinnati. I love climbing, hiking, gaming, music and motorsport.
+<p align="center">
+
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,ruby,javascript,typescript,cpp,rails,flask,angular,react,docker,mysql,postgres,graphql" />
+    <img src=https://user-images.githubusercontent.com/25181517/182884027-02cf00e4-6ac5-49a8-816d-3287a26bc5b4.png width="48" />
+  </a>
+</p>
+
+<!-- [![Raihan's GitHub stats](https://github-readme-stats.vercel.app/api?username=rai1975)](https://github.com/rai1975/github-readme-stats) -->
+
+I'm a Computer Science major at the University of Cincinnati, and I love climbing, hiking, gaming, music, and motorsports. I love building things and learning by doing, whether it's coding a new project or picking up a new skill. I’m really into database systems and data science, and I'm currently exploring transformer architecture AI.
 
 ## Experience
 - **Languages:** Ruby | Python | JavaScript | TypeScript | C++
 - **Frameworks:** Rails | Flask | Angular | React
-- **Database:** MySQL | PostgreSQL | Cypher (neo4j)
-- **Data Analysis:** Numpy | Pandas | Scikit
+- **Database:** MySQL | PostgreSQL | Cypher (Neo4j)
 - **AI:** BERT | Llama | OpenAI | HuggingFace (Transformers)
 - **Tools:** Docker
 <!--
