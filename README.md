@@ -14,10 +14,10 @@ I'm a Computer Science major at the University of Cincinnati, and I love climbin
 
 ## Experience
 - **Languages:** Ruby | Python | JavaScript | TypeScript | C++
-- **Frameworks:** Rails | Flask | Angular | React
+- **Frameworks and Libraries:** Rails | Flask | Angular | React | Pandas | NumPy | Matplotlib | SciPy | Scikit-learn
 - **Database:** MySQL | PostgreSQL | Cypher (Neo4j)
-- **AI:** BERT | Llama | OpenAI | HuggingFace (Transformers)
-- **Tools:** Docker
+- **AI and Machine Learning:** BERT | Llama | OpenAI | HuggingFace Transformers
+- **Tools and Scripting:** Docker | Bash | Zsh | Bash | Powershell | Vim | Regex
 <!--
 **Rai1975/Rai1975** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
