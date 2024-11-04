@@ -10,7 +10,7 @@
 
 <!-- [![Raihan's GitHub stats](https://github-readme-stats.vercel.app/api?username=rai1975)](https://github.com/rai1975/github-readme-stats) -->
 
-I'm a Computer Science major at the University of Cincinnati, and I love climbing, hiking, gaming, music, and motorsports. I love building things and learning by doing. I'm also a CLI monkey 🐵
+I'm a Computer Science major at the University of Cincinnati, and I love climbing, hiking, gaming, music, and motorsports. I like building stuff. I'm also a CLI monkey 🐵
 
 ## Experience
 - **Languages:** Ruby | Python | JavaScript | TypeScript | C++
