@@ -2,8 +2,8 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,ruby,javascript,typescript,cpp,rails,flask,pytorch,tensorflow,angular,react,docker,mysql,postgres,graphql&perline=4" />
-    <img src="https://user-images.githubusercontent.com/25181517/182884027-02cf00e4-6ac5-49a8-816d-3287a26bc5b4.png" width="48" style="margin-left: -50px" />
+    <img src="https://skillicons.dev/icons?i=py,ruby,javascript,typescript,cpp,rails,flask,pytorch,tensorflow,angular,react,docker,mysql,postgres,graphql&perline=25"/>
+    <img src="https://user-images.githubusercontent.com/25181517/182884027-02cf00e4-6ac5-49a8-816d-3287a26bc5b4.png" width="48" />
   </a>
 </p>
 
