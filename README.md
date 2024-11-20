@@ -16,7 +16,7 @@ I'm a Computer Science major at the University of Cincinnati. I like building st
 - **Frameworks and Libraries:** Rails | Flask | Angular | React | Pandas | NumPy | Matplotlib | SciPy
 - **Database:** MySQL | PostgreSQL | Cypher (Neo4j)
 - **AI and Machine Learning:** BERT | Llama | OpenAI | HuggingFace Transformers | Scikit-Learn | PyTorch | Tensorflow
-- **Tools and Scripting:** Docker | Bash | Zsh | Bash | Powershell | Vim
+- **Tools and Scripting:** Docker | Bash | Zsh | Powershell
 <!--
 **Rai1975/Rai1975** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
