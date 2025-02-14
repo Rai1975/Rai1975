@@ -1,15 +1,19 @@
 ## Hi, I'm Raihan :robot:
+---
 
-<p align="center">
-  <a href="https://skillicons.dev">
+![Skills](https://skills-icons.vercel.app/api/icons?i=python,ruby,flask,js,ts,cpp,java,reactjs)
+![Skills](https://skills-icons.vercel.app/api/icons?i=nextjs,angular,pytorch,tensorflow,docker,mysql,postgresql,graphql)
+![Skills](https://skills-icons.vercel.app/api/icons?i=neo4j,streamlit,huggingface,vim,bash,powershell,)
+  <!-- <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=py,ruby,javascript,typescript,cpp,java,rails,flask,pytorch,tensorflow,angular,react,docker,mysql,postgres,graphql&perline=25"/>
     <img src="https://user-images.githubusercontent.com/25181517/182884027-02cf00e4-6ac5-49a8-816d-3287a26bc5b4.png" width="48" />
-  </a>
-</p>
+  </a> -->
 
 <!-- [![Raihan's GitHub stats](https://github-readme-stats.vercel.app/api?username=rai1975)](https://github.com/rai1975/github-readme-stats) -->
 
 I'm a Computer Science major at the University of Cincinnati. I like building stuff. I'm also a CLI monkey 🐵
+
+:rocket: Currently learning Rust
 
 ## Experience
 - **Languages:** Ruby | Python | JavaScript | TypeScript | C++ | Java
