@@ -1,8 +1,8 @@
 ## Hi, I'm Raihan :robot:
 
-![Skills](https://skills-icons.vercel.app/api/icons?i=python,ruby,flask,js,ts,cpp,java,reactjs,nextjs,angular,pytorch,tensorflow,docker,mysql,postgresql,graphql,neo4j,streamlit,huggingface,vim,bash,powershell)
+![Skills](https://skills-icons.vercel.app/api/icons?i=python,ruby,flask,js,ts,cpp,java,reactjs,nextjs,angular,pytorch,tensorflow,langchain,docker,mysql,postgresql,graphql,neo4j,streamlit,huggingface,vim,bash,powershell)
   <!-- <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,ruby,javascript,typescript,cpp,java,rails,flask,pytorch,tensorflow,langchain,angular,react,docker,mysql,postgres,graphql"/>
+    <img src="https://skillicons.dev/icons?i=py,ruby,javascript,typescript,cpp,java,rails,flask,pytorch,tensorflow,angular,react,docker,mysql,postgres,graphql"/>
     <img src="https://user-images.githubusercontent.com/25181517/182884027-02cf00e4-6ac5-49a8-816d-3287a26bc5b4.png" width="48" />
   </a> -->
 
