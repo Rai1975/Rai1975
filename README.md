@@ -13,7 +13,7 @@ I'm a Computer Science major at the University of Cincinnati. I like building st
 :rocket: Currently learning Rust
 
 ## Experience
-- **Languages:** Ruby | Python | JavaScript | TypeScript | C++ | Java
+- **Languages:** ColdFusion | Ruby | Python | JavaScript | TypeScript | C++ | Java
 - **Frontend:** Angular | React | Electron 
 - **Backend**: Rails | Flask | Pandas | NumPy | Matplotlib | SciPy
 - **Database:** MySQL | PostgreSQL | Cypher (Neo4j)
