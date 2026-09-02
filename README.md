@@ -10,7 +10,7 @@
 
 I'm a Computer Science major at the University of Cincinnati. I like building stuff. I'm also a CLI monkey 🐵
 
-:rocket: Currently learning Rust
+:rocket: Currently learning **Q#**
 
 ## Experience
 - **Languages:** ColdFusion | Ruby | Python | JavaScript | TypeScript | C++ | Java
