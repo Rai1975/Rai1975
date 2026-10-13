@@ -10,9 +10,9 @@
 
 I'm a Computer Science major at the University of Cincinnati. I like building stuff. I'm also a CLI monkey 🐵
 
-2x swe intern @ idaho national lab
-1x mle @ exilixi ai
-2x product engineer intern @ benchmark gensuite
+2x swe intern @ idaho national lab \
+1x mle @ exilixi ai \
+2x product engineer intern @ benchmark gensuite 
 
 :rocket: Currently learning **Go**
 
