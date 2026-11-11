@@ -12,7 +12,9 @@ I'm a Computer Science major at the University of Cincinnati. I like building st
 
 2x swe intern @ idaho national lab \
 1x mle @ exilixi ai \
-2x product engineer intern @ benchmark gensuite 
+2x product engineer intern @ benchmark gensuite \
+
+6x hackathon winner with a keen interest in hci + r&d + rapid prototyping/iteration
 
 :rocket: Currently learning **Go**
 
